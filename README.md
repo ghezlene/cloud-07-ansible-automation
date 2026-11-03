@@ -1,3 +1,5 @@
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
+
 # Ansible Configuration Management Lab
 
 > Automate server configuration and repetitive operational tasks.
@@ -58,3 +60,5 @@ Create playbooks to:
 - [ ] Build reusable roles.
 - [ ] Understand idempotency.
 - [ ] Automate a complete server configuration.
+
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
